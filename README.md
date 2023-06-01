@@ -1,2 +1,14 @@
-# Diabetes-prediction-using-Machine-learning-Model
-A framework for diabetes prediction employing data preprocessing, hyperparameter tuning, different machine learning classifiers and data visualizations. Logistic regression (LR), Support Vector machine (SVM), Decision Tree (DT) and Multilayer Perceptron (MLP) classifiers are deployed.
+## How to run the code
+Install necessary libraries.
+
+Import necessary libraries. 
+
+Initializing google drive on google Colab.
+
+Download the PIMA Indian dataset from https://www.kaggle.com/datasets/johndasilva/diabetes 
+
+Upload the data file. 
+
+Unzip the file. 
+
+Read the data
